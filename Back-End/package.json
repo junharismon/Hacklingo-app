@@ -1,0 +1,44 @@
+{
+  "name": "hacklingo-backend",
+  "version": "1.0.0",
+  "description": "Backend Repository for Hacklingo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test NODE_OPTIONS=--experimental-vm-modules npx jest --coverage --runInBand --forceExit",
+    "start": "nodemon server.js",
+    "prod": "cross-env NODE_ENV=production DATABASE_URI=mongodb+srv://afnabdillah:Nevermore1@afnabdillah.x4hdysh.mongodb.net/Hacklingo_DB npx nodemon server.js",
+    "dev": "cross-env NODE_ENV=production DATABASE_URI=mongodb+srv://afnabdillah:Nevermore1@afnabdillah.x4hdysh.mongodb.net/Hacklingo_DB_Dev npx nodemon server.js",
+    "docker": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulthanna97/Hacklingo-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulthanna97/Hacklingo-backend/issues"
+  },
+  "homepage": "https://github.com/sulthanna97/Hacklingo-backend#readme",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.7.1",
+    "@google-cloud/storage": "^6.10.0",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "graphql": "^16.6.0",
+    "graphql-request": "^6.0.0",
+    "graphql-upload": "^16.0.2",
+    "mongoose": "^7.1.0",
+    "mongoose-beautiful-unique-validation": "^7.1.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "supertest": "^6.3.3"
+  }
+}

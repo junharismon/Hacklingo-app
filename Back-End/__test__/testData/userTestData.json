@@ -1,0 +1,160 @@
+[
+  {
+    "input": {
+      "username": "test",
+      "email": "test@mail.com",
+      "password": "Test123@",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "testImage",
+      "email": "testImage@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "German/Deutsch",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test2",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test3",
+      "email": "test2@mail.com",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test4",
+      "email": "test3@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "adakjdd"
+    }
+  },
+  {
+    "input": {
+      "username": "test5",
+      "email": "test4@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test",
+      "email": "tes5@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "",
+      "email": "tes6@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test8",
+      "email": "",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test8",
+      "email": "tes@mail.com",
+      "password": "",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test8",
+      "email": "tes@mail.com",
+      "password": "123456",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test8",
+      "email": "tes@mail.com",
+      "password": "Testtesttest",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test8",
+      "email": "tes@mail.com",
+      "password": "234test$56",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "test8",
+      "email": "tes@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "Indonesian/Bahasa Indonesia",
+      "targetLanguage": [""],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "testImage2",
+      "email": "testImage2@mail.com",
+      "password": "Test123",
+      "nativeLanguage": "German/Deutsch",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  },
+  {
+    "input": {
+      "username": "testImage2",
+      "email": "@testIma@ge2.mail.com",
+      "password": "Test123",
+      "nativeLanguage": "German/Deutsch",
+      "targetLanguage": ["Indonesian/Bahasa Indonesia", "English"],
+      "role": "regular"
+    }
+  }
+]
